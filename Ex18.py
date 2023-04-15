@@ -1,5 +1,5 @@
 # cows and bulls
-# this is the github test
+# this is the github test, lets see if this works
 import random
 
 store_num = []
