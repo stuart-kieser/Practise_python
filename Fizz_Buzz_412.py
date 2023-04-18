@@ -15,7 +15,7 @@ class Solution(object):
             else:
                 rtype.append(str(i))
 
-        return print(rtype)
+        return rtype
 
 
 Solution.fizzBuzz(None, 3)
